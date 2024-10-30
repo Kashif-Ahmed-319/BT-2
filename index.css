@@ -1,0 +1,123 @@
+/*                   font-family: "Inter", sans-serif;                 */
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main-background{
+    background-color: #f5f7fa;
+}
+
+.header-c{
+    background-color: #f5f7fa;
+}
+
+.logo{
+    height: 5vh ;
+}
+
+.button-c{
+    background-color: #f5f7fa;
+}
+
+
+/* hero section */
+
+.background-c{
+    background-color: #f5f7fa;
+}
+
+.hero-one{
+    margin:90px;
+}
+
+.hero-h{
+    font-family: "Inter", sans-serif;
+    font-size: 64px;
+}
+
+.hero-p{
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+}
+
+.hero-image{
+    margin-left: 90px;
+    margin-bottom: 30px ;
+}
+
+/*  hero 2nd part */
+
+.second-one{
+    margin-bottom: 100px;
+}
+
+.second-h{
+    font-family: "Inter", sans-serif; 
+    font-size: 36px;
+    font-weight: 600px ;
+}
+
+.second-p{
+    font-family: "Inter", sans-serif; 
+    font-size: 16px;
+    font-weight: 600px ;
+}
+
+.second-two{
+    margin-top: 100px;
+}
+
+/* hero 2 */
+
+.second-hero-heading{
+    font-family: "Inter", sans-serif;  
+    font-size: 36px ;
+    font-weight: 600px ;
+}
+
+.second-hero-paragraph{
+    font-family: "Inter", sans-serif;  
+    font-size: 14px ;
+    font-weight: 400px ;
+}
+
+.second-hero-part-two{
+    margin-top: 150px ;
+    margin-left: 80px ;
+}
+
+/* hero 3 */
+
+.hero-three-figure{
+      margin:40px 80px 20px 80px;
+}
+
+.back-color{
+    background-color: #f5f7fa;
+}
+
+/* hero 4 */
+
+.hero-part-four{
+    margin-top: 150px ;
+    margin-left: 120px ;
+}
+
+/* tesla */
+
+.tesla-space{
+    padding: 0px 60px 0px 60px ;
+}
+
+/* 2nd cards section */
+
+
+
+
+
+
+
+
+/* background-color: #f5f7fa; */
